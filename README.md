@@ -49,9 +49,11 @@ Transitorios inductivos
 
 CAPITULO 13
 
+![image](https://user-images.githubusercontent.com/85178869/130731718-16decca5-b11d-4b57-b44c-755ad39a42d7.png)
 
 CAPITULO 14
 
+![image](https://user-images.githubusercontent.com/85178869/130733171-10c5e257-3ab6-4a2a-a1a8-ad46b40a6306.png)
 
 # 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
